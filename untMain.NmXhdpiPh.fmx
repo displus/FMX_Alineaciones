@@ -1,0 +1,171 @@
+inherited Form3_NmXhdpiPh: TForm3_NmXhdpiPh
+  ClientHeight = 615
+  ClientWidth = 400
+  DesignerMasterStyle = 3
+  inherited Layout1: TLayout
+    Size.Width = 400.000000000000000000
+    inherited Rectangle1: TRectangle
+      Size.Width = 390.000000000000000000
+      inherited Label1: TLabel
+        TextSettings.Font.StyleExt = {00070000000000000004000000}
+      end
+    end
+  end
+  inherited Layout2: TLayout
+    Position.Y = 565.000000000000000000
+    Size.Width = 400.000000000000000000
+  end
+  inherited Layout3: TLayout
+    Size.Width = 400.000000000000000000
+    Size.Height = 492.000000000000000000
+    inherited TabControl1: TTabControl
+      Size.Width = 400.000000000000000000
+      Size.Height = 492.000000000000000000
+      Sizes = (
+        400s
+        443s
+        400s
+        443s
+        400s
+        443s)
+      inherited TabItem1: TTabItem
+        ExplicitSize.cx = 209.000000000000000000
+        ExplicitSize.cy = 49.000000000000000000
+        inherited Layout4: TLayout
+          Size.Width = 400.000000000000000000
+          inherited Edit1: TEdit
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+          inherited Button18: TButton
+            Size.Width = 0.000000000000000000
+          end
+        end
+        inherited Layout5: TLayout
+          Position.X = 245.000000000000000000
+          Size.Height = 393.000000000000000000
+          inherited GridLayout1: TGridLayout
+            Size.Height = 393.000000000000000000
+            inherited Button1: TButton
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+            end
+            inherited Button2: TButton
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+            end
+            inherited Button3: TButton
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+            end
+            inherited Button4: TButton
+              TextSettings.Font.StyleExt = {00070000000000000004000000}
+            end
+          end
+        end
+        inherited GridPanelLayout1: TGridPanelLayout
+          Size.Width = 245.000000000000000000
+          Size.Height = 393.000000000000000000
+          RowCollection = <
+            item
+              Value = 25.000000000000010000
+            end
+            item
+              Value = 24.999999999999970000
+            end
+            item
+              Value = 25.000000000000010000
+            end
+            item
+              Value = 25.000000000000020000
+            end
+            item
+              SizeStyle = Auto
+            end>
+          inherited Button5: TButton
+            Size.Width = 71.666664123535160000
+            Size.Height = 88.250000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+          inherited Button6: TButton
+            Size.Width = 71.666664123535160000
+            Size.Height = 88.250000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+          inherited Button7: TButton
+            Size.Width = 71.666671752929690000
+            Size.Height = 88.250000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+          inherited Button8: TButton
+            Size.Width = 71.666664123535160000
+            Size.Height = 88.250000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+          inherited Button9: TButton
+            Size.Width = 71.666664123535160000
+            Size.Height = 88.250000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+          inherited Button10: TButton
+            Size.Width = 71.666671752929690000
+            Size.Height = 88.250000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+          inherited Button11: TButton
+            Size.Width = 71.666664123535160000
+            Size.Height = 88.250000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+          inherited Button12: TButton
+            Size.Width = 71.666664123535160000
+            Size.Height = 88.250000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+          inherited Button13: TButton
+            Size.Width = 71.666671752929690000
+            Size.Height = 88.250000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+          inherited Button14: TButton
+            Size.Width = 71.666664123535160000
+            Size.Height = 88.250000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+          inherited Button15: TButton
+            Size.Width = 71.666664123535160000
+            Size.Height = 88.250000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+          inherited Button16: TButton
+            Size.Width = 71.666671752929690000
+            Size.Height = 88.250000000000000000
+            TextSettings.Font.StyleExt = {00070000000000000004000000}
+          end
+        end
+      end
+      inherited TabItem2: TTabItem
+        ExplicitSize.cx = 209.000000000000000000
+        ExplicitSize.cy = 49.000000000000000000
+        inherited ScaledLayout1: TScaledLayout
+          Size.Width = 400.000000000000000000
+          Size.Height = 393.000000000000000000
+          inherited Image1: TImage
+            Size.Width = 390.000000000000000000
+            Size.Height = 383.000000000000000000
+          end
+        end
+        inherited Layout6: TLayout
+          Size.Width = 400.000000000000000000
+        end
+      end
+      inherited TabItem3: TTabItem
+        ExplicitSize.cx = 209.000000000000000000
+        ExplicitSize.cy = 49.000000000000000000
+        inherited flow: TFlowLayout
+          Size.Width = 390.000000000000000000
+          Size.Height = 383.000000000000000000
+        end
+        inherited Layout7: TLayout
+          Size.Width = 400.000000000000000000
+        end
+      end
+    end
+  end
+end
